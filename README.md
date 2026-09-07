@@ -71,7 +71,11 @@ shasum -a 256 sika-puduo-vX.X.X.apk
 Get-FileHash sika-puduo-vX.X.X.apk -Algorithm SHA256
 ```
 
-Match the output against the checksum on the [release page](https://github.com/baffuohasareb/sika-puduo-releases/releases). If they're identical, you're good.
+Match the output against the checksum for the current release below. If they're identical, you're good.
+
+### Release Asset Integrity
+- **File:** sika-puduo-v1.0.1.apk (45.47 MB)
+- **SHA-256:** feb045d8793f228c5012df5b647747ff4ced557ed39d0ef4243a1e5d4c76cff6
 
 ---
 
